@@ -1,0 +1,45 @@
+{
+    "profil": {
+        "nom": "Flaux",
+        "prenom": "Théo",
+        "adresse": "31 Rue Marin Marie, Saint-Malo",
+        "email": "theo2401@hotmail.fr",
+        "telephone": "06 71 64 85 85",
+        "poste": "Developpeur Web"
+    },
+    "qualites": [
+        "Patient",
+        "Motivé",
+        "Rigoureux"
+    ],
+    "langues": [
+            "Français (langue maternelle)",
+            "Anglais (niveau correct)"
+    ],
+    "presentation": [
+        "Développeur Web de 22 ans, actuellement en formation afin de devenir concepteur développeur d'application. Je recherche donc un stage afin de renforcer mes compétences. Je suis à l'aise pour travailler aussi bien sur des projets front-end que back-end.",
+        "Je suis ouvert à tout type de projet ou de création."
+    ],
+    "loisirs_num": [
+        "Jeux vidéo (moba, mmo)",
+        "Cinéma (série animées, films, séries)",
+        "Musique ( écoute et essai de réalisation via FL Studio )",
+        "Maquettage (figma, adobe XD)"
+    ],
+    "loisirs_not_num": [
+        "Lecture (manga, bd, roman)",
+        "Balades et sorties"
+    ],
+    "formations": [
+        {
+            "date": "2020-2021",
+            "title": "Titre professionnel Développeur Web et Web mobile, à l'IMTS dinard.",
+            "description": "Acquisition du titre de développeur Web et mobile avec validation des parties Front-end et Back-end à la suite d'une formation et d'un stage. 2020-2021"
+        },
+        {
+            "date": "2014-2017",
+            "title": "Baccalauréat STMG option Ressources Humaines, Lycées Jacques Cartier à St-Malo",
+            "description": "Obtention de mon Baccalauréat STMG au lycée Jacques Cartier. 2014-2017"
+        }
+    ]
+}
