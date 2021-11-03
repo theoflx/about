@@ -23,7 +23,7 @@
     "loisirs_num": [
         "Jeux vidéo (moba, mmo)",
         "Cinéma (série animées, films, séries)",
-        "Musique ( écoute et essai de réalisation via FL Studio )",
+        "Musique (écoute et essai de réalisation via FL Studio)",
         "Maquettage (figma, adobe XD)"
     ],
     "loisirs_not_num": [
@@ -34,12 +34,12 @@
         {
             "date": "2020-2021",
             "title": "Titre professionnel Développeur Web et Web mobile, à l'IMTS dinard.",
-            "description": "Acquisition du titre de développeur Web et mobile avec validation des parties Front-end et Back-end à la suite d'une formation et d'un stage. 2020-2021"
+            "description": "Acquisition du titre de développeur Web et mobile avec validation des parties Front-end et Back-end à la suite d'une formation et d'un stage."
         },
         {
             "date": "2014-2017",
             "title": "Baccalauréat STMG option Ressources Humaines, Lycées Jacques Cartier à St-Malo",
-            "description": "Obtention de mon Baccalauréat STMG au lycée Jacques Cartier. 2014-2017"
+            "description": "Obtention de mon Baccalauréat STMG au lycée Jacques Cartier."
         }
     ]
 }

@@ -93,11 +93,11 @@ body{
     display: flex;
     margin-top: 15%;
 }
-.logo_email{
+.logo-email{
     display: flex;
     width: 17%;
     margin-top: -5%;
-    margin-right: 4%;
+    margin-right: 6%;
 }
 .qualite{
     width: 75%;
@@ -271,4 +271,61 @@ ul, li{
 } 
 ::-webkit-scrollbar-thumb {
     background: linear-gradient(to top, #b3b3b3,#242424) !important;
+}
+
+/* Responsive */
+
+@media (max-width: 600px) {
+.rest_of_page{
+    margin-top: 2%;
+}
+.left_part{
+    font-size: 11px;
+    margin-left: 0%;
+    width: 30%;
+}
+.picture_cv {
+    display: none;
+}
+.row_adresse, .row_phone, .row_email{
+    display: revert;
+    text-align: center;
+}
+.logo-adresse, .logo-phone, .logo-email{
+    display: revert;
+    width: 25%;
+}
+.email_text{
+    overflow-wrap: break-word;
+}
+.qualite{
+    text-align: center;
+}
+.skills_text{
+    display: none;
+}
+.logo_node {
+    width: 73%;
+}
+.skills{
+    margin-left: 13%;
+}
+.right_part{
+    font-size: 11px;
+    text-align: center;
+}
+.title_first_xp, .title_second_xp{
+    margin-top: 7%;
+    margin-right: 11%;
+}
+.date_first_xp, .date_second_xp{
+    font-size: 11px;
+}
+.degrees{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.block_degrees{
+    margin-right: 11%;
+}
 }

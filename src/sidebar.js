@@ -21,7 +21,7 @@ export const Sidebar = (props) => {
                     </div>
 
                     <div className="row_email">
-                        <img className="logo_email" src="https://img.icons8.com/ios/50/000000/apple-mail.png"/><p>{info.email}</p>
+                        <img className="logo-email" src="https://img.icons8.com/ios/50/000000/apple-mail.png"/><p className="email_text">{info.email}</p>
                     </div>
                 </div>
 
@@ -42,7 +42,7 @@ export const Sidebar = (props) => {
                             <p className="skills_name">Mes compétences</p>
                         </div>
 
-                        <div>
+                        <div className="skills">
                             <ul className="skills_list">
                                 <li><img src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/><p className="skills_text">Animation Web</p></li>
                                 <li><img className="logo_node" src="https://img.icons8.com/ios/50/000000/react-native--v1.png"/><p className="skills_text">Front-end intéractif</p></li>
