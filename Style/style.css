@@ -314,6 +314,9 @@ ul, li{
     font-size: 11px;
     text-align: center;
 }
+.title_degrees, .title_loisirs, .title_presentation, .title_xp_pro {
+    padding-top: 4.3%;
+}
 .title_first_xp, .title_second_xp{
     margin-top: 7%;
     margin-right: 11%;
