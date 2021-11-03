@@ -44,11 +44,11 @@ export const Sidebar = (props) => {
 
                         <div className="skills">
                             <ul className="skills_list">
-                                <li><img src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/><p className="skills_text">Animation Web</p></li>
+                                <li><img className="logo_node" src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/><p className="skills_text">Animation Web</p></li>
                                 <li><img className="logo_node" src="https://img.icons8.com/ios/50/000000/react-native--v1.png"/><p className="skills_text">Front-end intéractif</p></li>
-                                <li><img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/><p className="skills_text">Gestion de bases de données</p></li>
+                                <li><img className="logo_node" src="https://img.icons8.com/ios-filled/50/000000/sql.png"/><p className="skills_text">Gestion de bases de données</p></li>
                                 <li><img className="logo_node" src="https://img.icons8.com/windows/32/000000/node-js.png"/><p className="skills_text">Projet Back-end</p></li>
-                                <li><img src="https://img.icons8.com/ios-filled/50/000000/php.png"/><p className="skills_text">Appels de données</p></li>                               
+                                <li><img className="logo_node" src="https://img.icons8.com/ios-filled/50/000000/php.png"/><p className="skills_text">Appels de données</p></li>                               
                             </ul>
                         </div>
 

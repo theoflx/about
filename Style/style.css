@@ -273,7 +273,7 @@ ul, li{
     background: linear-gradient(to top, #b3b3b3,#242424) !important;
 }
 
-/* Responsive */
+/* Responsive -600px */
 
 @media (max-width: 600px) {
 .rest_of_page{
@@ -305,10 +305,10 @@ ul, li{
     display: none;
 }
 .logo_node {
-    width: 73%;
+    width: 55%;
 }
 .skills{
-    margin-left: 13%;
+    margin-left: 25%;
 }
 .right_part{
     font-size: 11px;
@@ -332,3 +332,26 @@ ul, li{
     margin-right: 11%;
 }
 }
+/* Responsive 600px */
+@media (min-width: 600px) and (max-width: 800px) { 
+.rest_of_page{
+    margin-top: 2%;
+}
+.picture_cv {
+    display: none;
+}
+.qualite{
+    width: 85%;
+}
+.skills_list{
+    font-size: 14px;
+}
+.logo_node{
+    width: 60%;
+}
+.personnal_info{
+    font-size: 14px;
+    margin-top: 10%;
+}
+}
+
